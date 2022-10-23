@@ -6,10 +6,10 @@ int main() {
   int i, n;
   bool is_prime = true;
 
-  cout << "Enter a positive integer: ";
+  cout << "Enter a positive integer you need to check: ";
   cin >> n;
 
-  // 0 and 1 are not prime numbers
+  // 0 and 1 are not prime numbers as we know
   if (n == 0 || n == 1) {
     is_prime = false;
   }
