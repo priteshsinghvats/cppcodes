@@ -9,6 +9,7 @@ int main() {
   cin >> firstNumber >> secondNumber;
 
   // sum of two numbers in stored in variable sumOfTwoNumbers
+  //Add those
   sum = firstNumber + secondNumber;
 
   // prints sum 
