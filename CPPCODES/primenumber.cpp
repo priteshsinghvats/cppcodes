@@ -23,9 +23,9 @@ int main() {
   }
 
   if (is_prime)
-    cout << n << " is a prime number";
+    cout << n << " is a prime number verified ";
   else
-    cout << n << " is not a prime number";
+    cout << n << " is not a prime number verified";
 
   return 0;
 }
