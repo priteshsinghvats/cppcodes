@@ -12,7 +12,7 @@ int main() {
   //Add those
   sum = firstNumber + secondNumber;
 
-  // prints sum 
+  // prints sum of the two given numbers from users
   cout << firstNumber << " + " <<  secondNumber << "equals " << sum;     
 
   return 0;
